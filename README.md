@@ -1,3 +1,16 @@
+# Introduction
+
+Prompt Forge V1 is a prompt engineering framework designed to transform vague, incomplete, unstructured, or conflicting user requests into precise, structured, and reusable prompts.
+
+It acts as a Prompt Conversion Engine and Prompt Architect, analyzing your requirements, identifying missing information, selecting appropriate prompting frameworks, and refining your instructions into execution-ready prompts compatible with different AI models and platforms.
+
+### How to Use
+
+Wrap your original request inside the `<up>` and `</up>` tags when submitting it in your Prompt Forge V1 ChatGPT Project.
+
+Prompt Forge V1 will either ask targeted clarification questions when essential information is missing or generate a refined prompt that you can copy and use with your preferred AI model.
+
+**The goal:** Turn ordinary instructions into clear, effective prompts that improve task execution, reduce ambiguity, and produce more consistent AI outputs.
 
 ## Getting Started
 
